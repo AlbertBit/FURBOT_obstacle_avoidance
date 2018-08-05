@@ -1,2 +1,0 @@
-ira_laser_tools:teb_planner
--DCATKIN_DEVEL_PREFIX=/home/remus/Scrivania/teb-planner_ws/devel -DCMAKE_INSTALL_PREFIX=/home/remus/Scrivania/teb-planner_ws/install -G Unix Makefiles

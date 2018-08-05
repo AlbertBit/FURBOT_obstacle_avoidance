@@ -1,8 +1,0 @@
-prefix=/home/remus/Scrivania/teb-planner_ws/install
-
-Name: ira_laser_tools
-Description: Description of ira_laser_tools
-Version: 1.0.0
-Cflags: -I/home/remus/Scrivania/teb-planner_ws/install/include
-Libs: -L/home/remus/Scrivania/teb-planner_ws/install/lib 
-Requires: 
