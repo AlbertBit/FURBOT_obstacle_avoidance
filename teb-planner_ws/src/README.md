@@ -1,1 +1,0 @@
-# FURBOT_obstacle_avoidance
