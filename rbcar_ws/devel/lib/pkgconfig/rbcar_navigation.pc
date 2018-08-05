@@ -1,0 +1,8 @@
+prefix=/home/remus/Scrivania/rbcar_ws/devel
+
+Name: rbcar_navigation
+Description: Description of rbcar_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/remus/Scrivania/rbcar_ws/devel/lib 
+Requires: 
