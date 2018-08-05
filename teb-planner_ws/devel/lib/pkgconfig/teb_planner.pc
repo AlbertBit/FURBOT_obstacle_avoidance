@@ -1,0 +1,8 @@
+prefix=/home/remus/Scrivania/teb-planner_ws/devel
+
+Name: teb_planner
+Description: Description of teb_planner
+Version: 0.2.2
+Cflags: 
+Libs: -L/home/remus/Scrivania/teb-planner_ws/devel/lib 
+Requires: 

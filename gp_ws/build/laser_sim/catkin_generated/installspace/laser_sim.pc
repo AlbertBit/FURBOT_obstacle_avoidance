@@ -1,8 +1,0 @@
-prefix=/home/remus/Scrivania/gp_ws/install
-
-Name: laser_sim
-Description: Description of laser_sim
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/remus/Scrivania/gp_ws/install/lib 
-Requires: 
