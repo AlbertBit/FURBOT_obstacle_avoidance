@@ -1,0 +1,2 @@
+ira_laser_tools:rbcar_control:rbcar_description:rbcar_gazebo:rbcar_joystick:rbcar_navigation:rbcar_robot_control:rbcar_sim:rbcar_sim_bringup
+-DCATKIN_DEVEL_PREFIX=/home/remus/Scrivania/rbcar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/remus/Scrivania/rbcar_ws/install -G Unix Makefiles
