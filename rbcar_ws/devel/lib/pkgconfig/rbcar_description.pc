@@ -1,8 +1,0 @@
-prefix=/home/remus/Scrivania/rbcar_ws/devel
-
-Name: rbcar_description
-Description: Description of rbcar_description
-Version: 1.0.5
-Cflags: 
-Libs: -L/home/remus/Scrivania/rbcar_ws/devel/lib 
-Requires: 
