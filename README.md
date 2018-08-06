@@ -1,7 +1,7 @@
 # FURBOT_obstacle_avoidance
 
 0. go into teb-planner_ws and compile everything
-catkin_make *
+catkin_make
 
 open a terminal for each step
 
