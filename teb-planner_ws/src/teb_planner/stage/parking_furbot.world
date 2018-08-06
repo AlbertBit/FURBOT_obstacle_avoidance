@@ -17,20 +17,21 @@ define floorplan model
   laser_return 1
 )
 
+#obstacles
 define parked_car model
 (
-  size [ 0.6 0.25 0.40 ] # this models the footprint (rectangular), but shifted such that the bottom-left corner is in [0,0]. The center of rotation now here at [0.3, 0.125, 0.2]
+  size [ 0.6 0.25 0.40 ] # this models the footprint (rectangular), but shifted such that the bottom-left corner is in [0,0].
   gui_nose 1
   color "blue"
-  
+
 )
 
 define pallet model
 (
-  size [ 0.3 0.18 0.40 ] # this models the footprint (rectangular), but shifted such that the bottom-left corner is in [0,0]. The center of rotation now here at [0.3, 0.125, 0.2]
+  size [ 0.3 0.18 0.40 ] # this models the footprint (rectangular), but shifted such that the bottom-left corner is in [0,0].
   gui_nose 1
   color "brown"
-  
+
 )
 
 resolution 0.02
@@ -73,7 +74,3 @@ pallet
 (
   pose [ 5.6 5.0 0.0 90 ]
 )
-
-
-
-
